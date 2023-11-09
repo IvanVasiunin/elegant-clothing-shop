@@ -1,16 +1,15 @@
-export const App = () => {
+import Header from './Header.jsx';
+import Shop from './Shop.jsx';
+import CartContextProvider from 'store/shoping-cart-context.jsx';
+
+function App() {
+
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <CartContextProvider>
+      <Header />
+      <Shop />
+    </CartContextProvider>
   );
-};
+}
+
+export default App;
