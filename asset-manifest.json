@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/elegant-clothing-shop/static/css/main.7acaea2f.css",
-    "main.js": "/elegant-clothing-shop/static/js/main.07d3183d.js",
+    "main.css": "/elegant-clothing-shop/static/css/main.cce42044.css",
+    "main.js": "/elegant-clothing-shop/static/js/main.9f9e7e74.js",
+    "static/media/logo.png": "/elegant-clothing-shop/static/media/logo.29d7c2141a18f6d4ff0f.png",
+    "static/media/denim-pioneer.jpg": "/elegant-clothing-shop/static/media/denim-pioneer.6b726ec4efda6c8f7752.jpg",
+    "static/media/rain-jacket.jpg": "/elegant-clothing-shop/static/media/rain-jacket.b856f7a5efa6e87f2da0.jpg",
+    "static/media/dream-gown.jpg": "/elegant-clothing-shop/static/media/dream-gown.3b7de5866ea9f4f81bf6.jpg",
+    "static/media/mocha-overcoat.jpg": "/elegant-clothing-shop/static/media/mocha-overcoat.037b486a844d5afc0022.jpg",
+    "static/media/merlot-suit.jpg": "/elegant-clothing-shop/static/media/merlot-suit.0140cac0a814bc9640b7.jpg",
+    "static/media/moonlight-dress.jpg": "/elegant-clothing-shop/static/media/moonlight-dress.dabc8ca96931f295d884.jpg",
     "index.html": "/elegant-clothing-shop/index.html",
-    "main.7acaea2f.css.map": "/elegant-clothing-shop/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/elegant-clothing-shop/static/js/main.07d3183d.js.map"
+    "main.cce42044.css.map": "/elegant-clothing-shop/static/css/main.cce42044.css.map",
+    "main.9f9e7e74.js.map": "/elegant-clothing-shop/static/js/main.9f9e7e74.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.cce42044.css",
+    "static/js/main.9f9e7e74.js"
   ]
 }
